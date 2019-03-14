@@ -58,10 +58,11 @@ a:hover {
 	margin-right: 136px;
 }
 .menu {
-	background-color: #000000;
+	background-color: white;
 	width: 800px;
 	height: 51px;
 	float: left;
+	text-align: center;
 }
 .menu ul {
 	list-style-type: none;
